@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0960a9d-34aa-41be-9c89-8fea8f8c9412" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Q2pointPlotGD.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Q2pointPlotNM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/question2GD.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/question2NM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/question3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/question333.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/question3Gradient.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_file.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/network.py" afterPath="$PROJECT_DIR$/gradient-decent.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/new_lms.py" afterPath="$PROJECT_DIR$/lms-gradient-decent.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question333.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="question333.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/question333.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -104,6 +94,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="License" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/License">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3213">
+              <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,6 +126,7 @@
         <option value="$PROJECT_DIR$/newton_method.py" />
         <option value="$PROJECT_DIR$/new_lms.py" />
         <option value="$PROJECT_DIR$/lms-algorithm.py" />
+        <option value="$PROJECT_DIR$/License" />
       </list>
     </option>
   </component>
@@ -168,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Anaconda3/envs/hwenv/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw1" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -301,8 +302,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21085595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21085595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -538,16 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lms-gradient-decent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradient-decent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -591,6 +583,24 @@
     <entry file="file://$PROJECT_DIR$/question333.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lms-gradient-decent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/License">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
